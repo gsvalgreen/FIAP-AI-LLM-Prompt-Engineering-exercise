@@ -1,0 +1,7 @@
+paciente,peso,altura,imc,classificacao
+Paciente 1,60,1.81,18.3,Abaixo do peso
+Paciente 2,75,1.75,24.5,Peso normal
+Paciente 3,85,1.78,26.8,Sobrepeso
+Paciente 4,105,1.8,32.4,Obesidade Grau I
+Paciente 5,115,1.7,39.8,Obesidade Grau II
+Paciente 6,120,1.65,44.1,Obesidade Grau III
